@@ -2,3 +2,5 @@ __pycache__
 pybo.db
 migrations
 *.pyc
+new_env
+
